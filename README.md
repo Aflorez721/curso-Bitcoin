@@ -1,2 +1,3 @@
 # curso-Bitcoin
-Curso básico de Bitcoin para principiantes.
+
+Bitcoin para principiantes.
